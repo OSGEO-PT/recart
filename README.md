@@ -2,6 +2,13 @@
 
 Oficina de Dados Abertos, 3 e 4 de outubro, 2019, Águeda
 
+Contributos iniciais:
+
+* Sandra Baptista (Cartago)
+* Tiago Amorim (Geomaster)
+* Paulo Almeida (Geomaster)
+* Jorge Gustavo (Geomaster)
+
 ## Objetivo
 
 * Olhar para a nova especificação da Cartografia
