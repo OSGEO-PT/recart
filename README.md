@@ -85,8 +85,8 @@ Oficina de Dados Abertos, 3 e 4 de outubro, 2019, Águeda
 ## Contribuição para o QGIS
 
 O conjunto Postgresql e QGIS respondem às necessidades dos municípios em geral. Em particular, para suportar as novas especificações (eventualmente mantendo a proposta de base de dados), é necessário melhorar o QGIS em termos de suporte a tabelas com geometrias de diversos tipos.
-* Suportar múltiplas geometrias do tipo 3d
-* Suportar estilos diferentes consoante o tipo de geometria
+* [Suportar múltiplas geometrias do tipo 3d](https://github.com/qgis/QGIS/issues/32119)
+* [Suportar estilos diferentes consoante o tipo de geometria](https://github.com/qgis/QGIS/issues/18479)
 
 ## Visualizadores
 
