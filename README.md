@@ -15,12 +15,12 @@ Contributos iniciais:
     * Simbologia
     * Modelo de dados
         
-* Encaixar esta cartografia no contaxto do SIG municipal
+* Encaixar esta cartografia no **workflow do SIG municipal**
     * Relacionar a cartografia com os modelos de dados de trabalho (relacionar com SIG interno)
-    * Migrar cartografia existente para o novo modelo (e ter de borla os novos estilos, ferramentas, etc)
-    * Relacionar esta cartografia com SIG externos usando links/ids permanentes (DGT, INE, SNIAMB, REN, etc)
+    * Migrar cartografia existente para o novo modelo (e ter de borla os novos estilos, ferramentas, plataformas de publicação, etc)
+    * Relacionar esta cartografia com SIG externos usando links/ids permanentes, no âmbito do INSPIRE (DGT, INE, SNIAMB, REN, etc)
 
-* Ponto de vista do Município (e não do produtor)
+* Este exercício parte do ponto de vista do Município (e não do produtor)
 
 ## Documentos de apoio
 
